@@ -1624,8 +1624,8 @@
 "../../../Engine/Content/EngineFonts/Faces/RobotoTiny.uasset" 1624
 "../../../../Projects/Internship/Noob_noob3 4.18/Intermediate/AssetRegistryCache/311563bb.bin" 1625
 "../../../../Projects/Internship/Noob_noob3 4.18/Intermediate/AssetRegistryCache/c90e3f55.bin" 1626
-"../../../../Projects/Internship/Noob_noob3 4.18/Content/Levels/World.umap" 1627
-"../../../../Projects/Internship/Noob_noob3 4.18/Content/Levels/World1.umap" 1628
+"../../../../Projects/Internship/Noob_noob3 4.18/Content/Levels/DNACollect.umap" 1627
+"../../../../Projects/Internship/Noob_noob3 4.18/Content/Levels/DNACollect_BuiltData.uasset" 1628
 "../../../../Projects/Internship/Noob_noob3 4.18/Config/DefaultEngine.ini" 1629
 "../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 1630
 "../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 1631
@@ -1725,9 +1725,9 @@
 "C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/4/1/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_0DE6C7A845375B7E578CCDA4D2BA21A__D8E327092032A5DCA4530B6A1913B1173C788553.udd" 1725
 "C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/5/5/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_094BFB384E73C16C0541228DFC728__B23ABFCA61822C7B7633042FE49C13D4A9CDED3C.udd" 1726
 "C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/5/5/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_E69C372E4AE0FE9455F3C280151F603__15DE47C38AC5FE3612AB0BDA7C755C88D3ECAD21.udd" 1727
-"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/9/7/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_9ACC28364D7223812ED2199BDF47E28__DA063E13E1FA79F19656360C465D1F1E2FC26625.udd" 1728
+"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/1/5/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_94EF5010409B5D603E77BF8C408A762__1448A5BF3A36FD0E406B65ECB9B0CABCF6E7B386.udd" 1728
 "C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/2/2/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_C2DED0664AEC205D5186A9AEC0CF4A8__55062D1DE0ED3551F1CFAA8996C15EA7BD4588B4.udd" 1729
-"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/1/5/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_94EF5010409B5D603E77BF8C408A762__1448A5BF3A36FD0E406B65ECB9B0CABCF6E7B386.udd" 1730
+"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/9/7/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_9ACC28364D7223812ED2199BDF47E28__DA063E13E1FA79F19656360C465D1F1E2FC26625.udd" 1730
 "../../../Engine/Content/EngineMaterials/EditorBrushMaterial.uasset" 1731
 "../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 1732
 "../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 1733
@@ -1762,34 +1762,34 @@
 "../../../../Projects/Internship/Noob_noob3 4.18/Content/UI/Lab/Map02.uasset" 1762
 "C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/2/9/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_516340A64FE8F23392A3BD98C740DCD__8A11710E389C9FB5AE62D77183E480C907955EFD.udd" 1763
 "../../../../Projects/Internship/Noob_noob3 4.18/Content/UI/Lab/Leftcolumns.uasset" 1764
-"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/1/2/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_A623A1514B559D79D3DEA284E443D89__FC643494C95612A3E3D912553CD35C34ABA24A07.udd" 1765
-"../../../../Projects/Internship/Noob_noob3 4.18/Content/UI/Lab/LeaderboardButton02.uasset" 1766
-"../../../../Projects/Internship/Noob_noob3 4.18/Content/UI/Lab/Hub_Lab_2D_05.uasset" 1767
-"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/9/5/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_BD17794845F019CC372CFA83C240B__D9860AA0097E3740B47AFD86F4CB0922ACBE8B05.udd" 1768
-"../../../../Projects/Internship/Noob_noob3 4.18/Content/UI/Lab/Go02.uasset" 1769
-"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/9/6/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_9A22F3FC473844C08557208B827ECC3__E6C94BDCCBDD29142521085FE0B181A50DB94051.udd" 1770
-"../../../../Projects/Internship/Noob_noob3 4.18/Content/UI/Lab/DescriptionButton02.uasset" 1771
-"../../../../Projects/Internship/Noob_noob3 4.18/Content/UI/Lab/BottomPlate01.uasset" 1772
-"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/1/7/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_09B33E2A491D56994AAB079760006A1__562B2CC87BDCBCDBA2E6D80A2B2A3DAA6D236590.udd" 1773
-"../../../../Projects/Internship/Noob_noob3 4.18/Content/UI/Lab/BottomMessage02.uasset" 1774
-"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/0/5/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_E36AD1944247BE3F3AC321AE9928F87__E35D907B2643E94B4E3574CCA71C036134A963D4.udd" 1775
-"../../../../Projects/Internship/Noob_noob3 4.18/Content/UI/Lab/AnimalButton02.uasset" 1776
-"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/4/0/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_C03C70C849F0F6F3D6F2AA8AB90D9__118D3A48FDDC191A21BF38372F5CB39190797B2F.udd" 1777
-"../../../../Projects/Internship/Noob_noob3 4.18/Content/UI/MapGameWidget.uasset" 1778
-"../../../../Projects/Internship/Noob_noob3 4.18/Content/UI/AnimalSelection.uasset" 1779
-"../../../../Projects/Internship/Noob_noob3 4.18/Content/GUI/Map_Screen/Animal_Buttons/AnimalButtonBisonGreen.uasset" 1780
-"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/6/3/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_C59DC13B4769FB11B4E58CA4B5E4ECD__12599ECA534338C0B304BF40799A0A70E3086251.udd" 1781
-"../../../../Projects/Internship/Noob_noob3 4.18/Content/GUI/Map_Screen/Animal_Buttons/AnimalButtonBisonRed.uasset" 1782
-"../../../../Projects/Internship/Noob_noob3 4.18/Content/GUI/Map_Screen/Animal_Buttons/AnimalButtonCondorGreen.uasset" 1783
-"../../../../Projects/Internship/Noob_noob3 4.18/Content/GUI/Map_Screen/Animal_Buttons/AnimalButtonCondorRed.uasset" 1784
-"../../../../Projects/Internship/Noob_noob3 4.18/Content/GUI/Map_Screen/Animal_Buttons/AnimalButtonGiraffeGreen.uasset" 1785
-"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/7/7/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_43C9E801467DEEB0B1B899A7BF01692__2CF202E391CD75104EEE00A2A0128B6E27CC7408.udd" 1786
-"../../../../Projects/Internship/Noob_noob3 4.18/Content/GUI/Map_Screen/Animal_Buttons/AnimalButtonGiraffeRed.uasset" 1787
-"../../../../Projects/Internship/Noob_noob3 4.18/Content/GUI/Map_Screen/Animal_Buttons/AnimalButtonGorillaGreen.uasset" 1788
-"../../../../Projects/Internship/Noob_noob3 4.18/Content/GUI/Map_Screen/Animal_Buttons/AnimalButtonGorillaRed.uasset" 1789
-"../../../../Projects/Internship/Noob_noob3 4.18/Content/GUI/Map_Screen/Animal_Buttons/AnimalButtonKoalaGreen.uasset" 1790
-"../../../../Projects/Internship/Noob_noob3 4.18/Content/GUI/Map_Screen/Animal_Buttons/AnimalButtonKoalaRed.uasset" 1791
-"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/8/9/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_121D432846CB60061E07ADB07B16A3C__D38C42C1556F3A4849AF3B31C4C62A91300D90C4.udd" 1792
+"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/4/0/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_C03C70C849F0F6F3D6F2AA8AB90D9__118D3A48FDDC191A21BF38372F5CB39190797B2F.udd" 1765
+"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/1/2/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_A623A1514B559D79D3DEA284E443D89__FC643494C95612A3E3D912553CD35C34ABA24A07.udd" 1766
+"../../../../Projects/Internship/Noob_noob3 4.18/Content/UI/Lab/LeaderboardButton02.uasset" 1767
+"../../../../Projects/Internship/Noob_noob3 4.18/Content/UI/Lab/Hub_Lab_2D_05.uasset" 1768
+"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/9/5/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_BD17794845F019CC372CFA83C240B__D9860AA0097E3740B47AFD86F4CB0922ACBE8B05.udd" 1769
+"../../../../Projects/Internship/Noob_noob3 4.18/Content/UI/Lab/Go02.uasset" 1770
+"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/6/3/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_C59DC13B4769FB11B4E58CA4B5E4ECD__12599ECA534338C0B304BF40799A0A70E3086251.udd" 1771
+"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/9/6/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_9A22F3FC473844C08557208B827ECC3__E6C94BDCCBDD29142521085FE0B181A50DB94051.udd" 1772
+"../../../../Projects/Internship/Noob_noob3 4.18/Content/UI/Lab/DescriptionButton02.uasset" 1773
+"../../../../Projects/Internship/Noob_noob3 4.18/Content/UI/Lab/BottomPlate01.uasset" 1774
+"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/7/7/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_43C9E801467DEEB0B1B899A7BF01692__2CF202E391CD75104EEE00A2A0128B6E27CC7408.udd" 1775
+"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/1/7/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_09B33E2A491D56994AAB079760006A1__562B2CC87BDCBCDBA2E6D80A2B2A3DAA6D236590.udd" 1776
+"../../../../Projects/Internship/Noob_noob3 4.18/Content/UI/Lab/BottomMessage02.uasset" 1777
+"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/0/5/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_E36AD1944247BE3F3AC321AE9928F87__E35D907B2643E94B4E3574CCA71C036134A963D4.udd" 1778
+"../../../../Projects/Internship/Noob_noob3 4.18/Content/UI/Lab/AnimalButton02.uasset" 1779
+"../../../../Projects/Internship/Noob_noob3 4.18/Content/UI/MapGameWidget.uasset" 1780
+"../../../../Projects/Internship/Noob_noob3 4.18/Content/UI/AnimalSelection.uasset" 1781
+"../../../../Projects/Internship/Noob_noob3 4.18/Content/GUI/Map_Screen/Animal_Buttons/AnimalButtonBisonGreen.uasset" 1782
+"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/8/9/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_121D432846CB60061E07ADB07B16A3C__D38C42C1556F3A4849AF3B31C4C62A91300D90C4.udd" 1783
+"../../../../Projects/Internship/Noob_noob3 4.18/Content/GUI/Map_Screen/Animal_Buttons/AnimalButtonBisonRed.uasset" 1784
+"../../../../Projects/Internship/Noob_noob3 4.18/Content/GUI/Map_Screen/Animal_Buttons/AnimalButtonCondorGreen.uasset" 1785
+"../../../../Projects/Internship/Noob_noob3 4.18/Content/GUI/Map_Screen/Animal_Buttons/AnimalButtonCondorRed.uasset" 1786
+"../../../../Projects/Internship/Noob_noob3 4.18/Content/GUI/Map_Screen/Animal_Buttons/AnimalButtonGiraffeGreen.uasset" 1787
+"../../../../Projects/Internship/Noob_noob3 4.18/Content/GUI/Map_Screen/Animal_Buttons/AnimalButtonGiraffeRed.uasset" 1788
+"../../../../Projects/Internship/Noob_noob3 4.18/Content/GUI/Map_Screen/Animal_Buttons/AnimalButtonGorillaGreen.uasset" 1789
+"../../../../Projects/Internship/Noob_noob3 4.18/Content/GUI/Map_Screen/Animal_Buttons/AnimalButtonGorillaRed.uasset" 1790
+"../../../../Projects/Internship/Noob_noob3 4.18/Content/GUI/Map_Screen/Animal_Buttons/AnimalButtonKoalaGreen.uasset" 1791
+"../../../../Projects/Internship/Noob_noob3 4.18/Content/GUI/Map_Screen/Animal_Buttons/AnimalButtonKoalaRed.uasset" 1792
 "../../../../Projects/Internship/Noob_noob3 4.18/Content/GUI/Map_Screen/Animal_Buttons/AnimalButtonLynxGreen.uasset" 1793
 "../../../../Projects/Internship/Noob_noob3 4.18/Content/GUI/Map_Screen/Animal_Buttons/AnimalButtonLynxRed.uasset" 1794
 "../../../../Projects/Internship/Noob_noob3 4.18/Content/GUI/Map_Screen/Animal_Buttons/AnimalButtonOtterGreen.uasset" 1795
@@ -1886,42 +1886,42 @@
 "C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/9/6/REFL_ENC_0C6693969CB849AE9F4120FF5812F4D3_D93AB16646F4F69EB311F187CB36AA98_128_1.udd" 1886
 "../../../Engine/Content/EditorResources/EmptyActor.uasset" 1887
 "../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 1888
-"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/8/2/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_388FD61049D6346E11D40EB7BFC51__7A98E24797C5C223DDEBA66CCFFD70FB5CDC4556.udd" 1889
-"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/7/9/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_6921C6354AB99A99769C3FB49F168__B8802A837B6698D84E4B15FE3064B7839F5CA255.udd" 1890
-"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/4/0/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_4A4ADEE94851EF31A85E96912EFD652B__B7835D105FD4E8141564AE27DE190681A7630EAE.udd" 1891
-"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/0/6/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_388FD61049D6346E11D40EB7BFC51__3030D6D02F9937AA19A7DA82032DFD83A930ABF8.udd" 1892
-"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/2/1/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_750FE436418DEA7837238A9F02639__7DAF9DB1268C3F44C04120C307E89EDAD7F9C2B8.udd" 1893
-"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/3/6/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_C395D03A41022913F10CA48D6BE48DE2__16A2A1A265888257E13351D7A33FF7BCE16DF2C8.udd" 1894
-"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/1/6/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_388FD61049D6346E11D40EB7BFC51__2F1DC331C382C2E8115B2AEF2650ED154628933B.udd" 1895
-"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/1/5/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_22286FFB47B203FE243B2D8CE6C9AAF8__611EA14ABDFC06EB655436B01235C922689CB42C.udd" 1896
-"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/7/0/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_388FD61049D6346E11D40EB7BFC51__F7ED1DE84528A80B2055728B81471C9D3CB69A9B.udd" 1897
-"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/1/0/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_750FE436418DEA7837238A9F02639__B0A0D94F66B04C6409973E36C228B46B9914226B.udd" 1898
+"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/2/1/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_750FE436418DEA7837238A9F02639__7DAF9DB1268C3F44C04120C307E89EDAD7F9C2B8.udd" 1889
+"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/8/2/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_388FD61049D6346E11D40EB7BFC51__7A98E24797C5C223DDEBA66CCFFD70FB5CDC4556.udd" 1890
+"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/7/9/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_6921C6354AB99A99769C3FB49F168__B8802A837B6698D84E4B15FE3064B7839F5CA255.udd" 1891
+"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/1/0/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_750FE436418DEA7837238A9F02639__B0A0D94F66B04C6409973E36C228B46B9914226B.udd" 1892
+"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/1/5/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_22286FFB47B203FE243B2D8CE6C9AAF8__611EA14ABDFC06EB655436B01235C922689CB42C.udd" 1893
+"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/1/6/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_388FD61049D6346E11D40EB7BFC51__2F1DC331C382C2E8115B2AEF2650ED154628933B.udd" 1894
+"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/4/0/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_4A4ADEE94851EF31A85E96912EFD652B__B7835D105FD4E8141564AE27DE190681A7630EAE.udd" 1895
+"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/7/4/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_22286FFB47B203FE243B2D8CE6C9AAF8__D68A95EA26BA413935E06272A39AFF43071B5127.udd" 1896
+"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/3/6/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_C395D03A41022913F10CA48D6BE48DE2__16A2A1A265888257E13351D7A33FF7BCE16DF2C8.udd" 1897
+"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/0/8/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_4A4ADEE94851EF31A85E96912EFD652B__E2EE014AC12334ACC70F171543E5D61F0F27F170.udd" 1898
 "C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/3/2/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_9763B3CA4AAF730907151F83CDDD7A51_0__244F93D872A58E4D5E5B5C50C39509DABFB61BC1.udd" 1899
-"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/8/8/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_4A4ADEE94851EF31A85E96912EFD652B__A7563C42D434EDD28ECC3B62F27F4D76A5BC27A8.udd" 1900
-"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/2/1/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_9763B3CA4AAF730907151F83CDDD7A51_0__F49B62EBF4BD5F1D9A254383C483BC0899037843.udd" 1901
-"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/7/4/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_22286FFB47B203FE243B2D8CE6C9AAF8__D68A95EA26BA413935E06272A39AFF43071B5127.udd" 1902
+"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/0/6/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_388FD61049D6346E11D40EB7BFC51__3030D6D02F9937AA19A7DA82032DFD83A930ABF8.udd" 1900
+"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/8/8/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_4A4ADEE94851EF31A85E96912EFD652B__A7563C42D434EDD28ECC3B62F27F4D76A5BC27A8.udd" 1901
+"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/2/1/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_9763B3CA4AAF730907151F83CDDD7A51_0__F49B62EBF4BD5F1D9A254383C483BC0899037843.udd" 1902
 "C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/7/2/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_4A4ADEE94851EF31A85E96912EFD652B__36949DB9B3043C6CB942CB3E438A535F088A1566.udd" 1903
-"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/5/5/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_15AC3CE542A79C67BCC3609101DCF139_0__AB4C2B6D7485544F2F83B907BE1712F147BB3350.udd" 1904
-"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/8/9/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_FF3BE16A4D1C980D57BFC790E5FA5__4B9759FB307BD50ED8CF38A2148280980DAE114F.udd" 1905
-"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/8/9/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_750FE436418DEA7837238A9F02639__3496379DEDB382C31D2923BB75DEE32D59B34945.udd" 1906
+"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/5/5/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_22286FFB47B203FE243B2D8CE6C9AAF8__49C1D2F96EEF9EE16041B9E16DC2758D5ABCE97E.udd" 1904
+"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/5/5/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_15AC3CE542A79C67BCC3609101DCF139_0__AB4C2B6D7485544F2F83B907BE1712F147BB3350.udd" 1905
+"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/8/9/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_FF3BE16A4D1C980D57BFC790E5FA5__4B9759FB307BD50ED8CF38A2148280980DAE114F.udd" 1906
 "C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/4/6/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_FF3BE16A4D1C980D57BFC790E5FA5__C77E07F22796D349BA2B43D6FF97F09B5D576B82.udd" 1907
-"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/4/7/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_750FE436418DEA7837238A9F02639__686353D4CDD38172EC4D3270E525661F93C7F5B6.udd" 1908
-"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/7/1/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_750FE436418DEA7837238A9F02639__313EBE178700905BB8AF06AF2B78A0E84B531259.udd" 1909
-"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/1/1/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_9763B3CA4AAF730907151F83CDDD7A51_0__49754070BA1107445EC50C6A34D3640AF02CF61A.udd" 1910
-"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/8/8/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_FF3BE16A4D1C980D57BFC790E5FA5__4920EA4749BE4B516214EA3A6E7F27BCD790C46D.udd" 1911
-"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/0/4/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_4FEE2B8C4CFED4F9491BD385594BC__66B918D5D35508B212D08B2B6A4D288E879D48C8.udd" 1912
-"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/5/5/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_22286FFB47B203FE243B2D8CE6C9AAF8__49C1D2F96EEF9EE16041B9E16DC2758D5ABCE97E.udd" 1913
-"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/7/4/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_9763B3CA4AAF730907151F83CDDD7A51_0__410C9AAFD93C9F81DA1552C669A6D3B8328889A9.udd" 1914
-"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/0/1/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_FF3BE16A4D1C980D57BFC790E5FA5__0E67376E8CE5F53DB979C81C93E6678A0A244D88.udd" 1915
-"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/0/8/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_4A4ADEE94851EF31A85E96912EFD652B__E2EE014AC12334ACC70F171543E5D61F0F27F170.udd" 1916
-"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/9/8/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_4FEE2B8C4CFED4F9491BD385594BC__66C43987D838D9B99111FACBDD01ECF2DEB6F444.udd" 1917
-"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/2/0/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_22286FFB47B203FE243B2D8CE6C9AAF8__55A9DF745EB2ACA1CFD1D5E83670555CE29ECB50.udd" 1918
-"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/7/3/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_9763B3CA4AAF730907151F83CDDD7A51_0__50497BA669F1027B5D61861F4B16F4977D05C1F0.udd" 1919
+"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/2/0/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_22286FFB47B203FE243B2D8CE6C9AAF8__55A9DF745EB2ACA1CFD1D5E83670555CE29ECB50.udd" 1908
+"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/8/9/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_750FE436418DEA7837238A9F02639__3496379DEDB382C31D2923BB75DEE32D59B34945.udd" 1909
+"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/7/0/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_22286FFB47B203FE243B2D8CE6C9AAF8__9782BDF7B5057DA0F781DC8D7F5238600DC7B74C.udd" 1910
+"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/0/4/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_4FEE2B8C4CFED4F9491BD385594BC__66B918D5D35508B212D08B2B6A4D288E879D48C8.udd" 1911
+"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/9/8/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_4FEE2B8C4CFED4F9491BD385594BC__66C43987D838D9B99111FACBDD01ECF2DEB6F444.udd" 1912
+"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/1/1/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_9763B3CA4AAF730907151F83CDDD7A51_0__49754070BA1107445EC50C6A34D3640AF02CF61A.udd" 1913
+"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/8/8/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_FF3BE16A4D1C980D57BFC790E5FA5__4920EA4749BE4B516214EA3A6E7F27BCD790C46D.udd" 1914
+"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/0/3/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_4FEE2B8C4CFED4F9491BD385594BC__A0EDE219110C8A2D648E76BC6641D1F0A84C4DD3.udd" 1915
+"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/8/8/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_4FEE2B8C4CFED4F9491BD385594BC__AE34D9374D9B2CBA5685ED9D5EEC04C2FEFF863E.udd" 1916
+"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/0/1/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_FF3BE16A4D1C980D57BFC790E5FA5__0E67376E8CE5F53DB979C81C93E6678A0A244D88.udd" 1917
+"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/2/1/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_DA85ADB54B16E8EBB5551789E2B44__5492DE3E9901D16746993BD21B51DA9EF558B7C3.udd" 1918
+"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/7/4/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_9763B3CA4AAF730907151F83CDDD7A51_0__410C9AAFD93C9F81DA1552C669A6D3B8328889A9.udd" 1919
 "C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/1/6/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_FF3BE16A4D1C980D57BFC790E5FA5__CC364D89AF810FC211EB41E40240B686532F5C3A.udd" 1920
-"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/0/3/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_4FEE2B8C4CFED4F9491BD385594BC__A0EDE219110C8A2D648E76BC6641D1F0A84C4DD3.udd" 1921
-"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/7/0/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_22286FFB47B203FE243B2D8CE6C9AAF8__9782BDF7B5057DA0F781DC8D7F5238600DC7B74C.udd" 1922
-"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/2/1/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_DA85ADB54B16E8EBB5551789E2B44__5492DE3E9901D16746993BD21B51DA9EF558B7C3.udd" 1923
-"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/8/8/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_4FEE2B8C4CFED4F9491BD385594BC__AE34D9374D9B2CBA5685ED9D5EEC04C2FEFF863E.udd" 1924
+"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/7/3/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_9763B3CA4AAF730907151F83CDDD7A51_0__50497BA669F1027B5D61861F4B16F4977D05C1F0.udd" 1921
+"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/7/0/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_388FD61049D6346E11D40EB7BFC51__F7ED1DE84528A80B2055728B81471C9D3CB69A9B.udd" 1922
+"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/4/7/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_750FE436418DEA7837238A9F02639__686353D4CDD38172EC4D3270E525661F93C7F5B6.udd" 1923
+"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/7/1/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_750FE436418DEA7837238A9F02639__313EBE178700905BB8AF06AF2B78A0E84B531259.udd" 1924
 "C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/2/9/MATSM_24CFB3A24FF7412DB1277B5C2B5936DE_PCD3D_SM5_7__BC5N_NOCCBN_DEV_SL_DBUF_UN__397AEE861A9B0972D4F98379E1380CF8740E5EC9.udd" 1925
 "C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/3/3/MATSM_24CFB3A24FF7412DB1277B5C2B5936DE_PCD3D_SM4_7__BC5N_NOCCBN_DEV_SL_DBUF_UN__44654700EBA15E51E867514F4E370D8C9918F923.udd" 1926
 "../../../../Projects/Internship/Noob_noob3 4.18/Content/StarterContent/Maps/StarterMap.umap" 1927
@@ -2114,10 +2114,10 @@
 "../../../../Projects/Internship/Noob_noob3 4.18/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" 2114
 "../../../../Projects/Internship/Noob_noob3 4.18/Content/StarterContent/Shapes/Shape_Sphere.uasset" 2115
 "../../../../Projects/Internship/Noob_noob3 4.18/Content/StarterContent/Audio/Fire_Sparks01.uasset" 2116
-"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/9/2/STATICMESH_8A752B9E4A904F25B0AB9D65A70A8BDC_228332BAE0224DD294E232B87D83948F1$__3C7A017FC4B981C72869A3C49E6774EC2BC589AB.udd" 2117
-"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/5/3/NAVCOLLISION_B89838347A4348138EE337A847529C5C_NAVCOLLISION_X_22BB7CCE4C1CF70A5__01CBA78006CB73CAED09088E21D3A4F65EED62DD.udd" 2118
-"../../../../Projects/Internship/Noob_noob3 4.18/Content/StarterContent/Audio/Fire01.uasset" 2119
-"../../../../Projects/Internship/Noob_noob3 4.18/Content/StarterContent/Audio/Smoke01.uasset" 2120
+"../../../../Projects/Internship/Noob_noob3 4.18/Content/StarterContent/Audio/Smoke01.uasset" 2117
+"../../../../Projects/Internship/Noob_noob3 4.18/Content/StarterContent/Audio/Fire01.uasset" 2118
+"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/9/2/STATICMESH_8A752B9E4A904F25B0AB9D65A70A8BDC_228332BAE0224DD294E232B87D83948F1$__3C7A017FC4B981C72869A3C49E6774EC2BC589AB.udd" 2119
+"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/5/3/NAVCOLLISION_B89838347A4348138EE337A847529C5C_NAVCOLLISION_X_22BB7CCE4C1CF70A5__01CBA78006CB73CAED09088E21D3A4F65EED62DD.udd" 2120
 "../../../../Projects/Internship/Noob_noob3 4.18/Content/StarterContent/Audio/Steam01.uasset" 2121
 "../../../../Projects/Internship/Noob_noob3 4.18/Content/StarterContent/Audio/Starter_Music01.uasset" 2122
 "../../../../Projects/Internship/Noob_noob3 4.18/Content/StarterContent/Audio/Starter_Wind05.uasset" 2123
@@ -2146,229 +2146,221 @@
 "../../../../Projects/Internship/Noob_noob3 4.18/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" 2146
 "../../../../Projects/Internship/Noob_noob3 4.18/Content/Levels/MapGame.umap" 2147
 "../../../../Projects/Internship/Noob_noob3 4.18/Content/ThirdPersonBP/Blueprints/MapGameMode.uasset" 2148
-"../../../../Projects/Internship/Noob_noob3 4.18/Content/Levels/DNACollect.umap" 2149
-"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 2150
-"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/2/0/PHYSX_3B0AB674B19F4A698B28F7025C031EA2_PHYSXPC_ACBFC52E47AC0733D58136A347BB8AA2__1_0_0_0_2_13315_0.udd" 2151
-"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/6/7/PHYSX_3B0AB674B19F4A698B28F7025C031EA2_PHYSXPC_DDB42CF640D16979858CEB87F01399EC__1_0_0_0_2_13315_0.udd" 2152
-"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/9/3/REFL_ENC_0C6693969CB849AE9F4120FF5812F4D3_D6AF72114F10A9FC35B98FA4F8B98267_128_1.udd" 2153
-"../../../../Projects/Internship/Noob_noob3 4.18/Content/ThirdPersonBP/ThirdPersonOverview.uasset" 2154
-"../../../../Projects/Internship/Noob_noob3 4.18/Content/ThirdPerson/Meshes/CubeMaterial.uasset" 2155
-"../../../../Projects/Internship/Noob_noob3 4.18/Content/StarterContent/Textures/T_Shelf_N.uasset" 2156
-"../../../../Projects/Internship/Noob_noob3 4.18/Content/StarterContent/Textures/T_Shelf_M.uasset" 2157
-"../../../../Projects/Internship/Noob_noob3 4.18/Content/StarterContent/Textures/T_RockMesh_N.uasset" 2158
-"../../../../Projects/Internship/Noob_noob3 4.18/Content/StarterContent/Textures/T_RockMesh_M.uasset" 2159
-"../../../../Projects/Internship/Noob_noob3 4.18/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" 2160
-"../../../../Projects/Internship/Noob_noob3 4.18/Content/StarterContent/Textures/T_Door_N.uasset" 2161
-"../../../../Projects/Internship/Noob_noob3 4.18/Content/StarterContent/Textures/T_Door_M.uasset" 2162
-"../../../../Projects/Internship/Noob_noob3 4.18/Content/StarterContent/Textures/T_Bush_N.uasset" 2163
-"../../../../Projects/Internship/Noob_noob3 4.18/Content/StarterContent/Textures/T_Bush_D.uasset" 2164
-"../../../../Projects/Internship/Noob_noob3 4.18/Content/StarterContent/Textures/T_Burst_M.uasset" 2165
-"../../../../Projects/Internship/Noob_noob3 4.18/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" 2166
-"../../../../Projects/Internship/Noob_noob3 4.18/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" 2167
-"../../../../Projects/Internship/Noob_noob3 4.18/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" 2168
-"../../../../Projects/Internship/Noob_noob3 4.18/Content/StarterContent/Shapes/Shape_Tube.uasset" 2169
-"../../../../Projects/Internship/Noob_noob3 4.18/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" 2170
-"../../../../Projects/Internship/Noob_noob3 4.18/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" 2171
-"../../../../Projects/Internship/Noob_noob3 4.18/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" 2172
-"../../../../Projects/Internship/Noob_noob3 4.18/Content/StarterContent/Shapes/Shape_Trim.uasset" 2173
-"../../../../Projects/Internship/Noob_noob3 4.18/Content/StarterContent/Shapes/Shape_Torus.uasset" 2174
-"../../../../Projects/Internship/Noob_noob3 4.18/Content/StarterContent/Shapes/Shape_Plane.uasset" 2175
-"../../../../Projects/Internship/Noob_noob3 4.18/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" 2176
-"../../../../Projects/Internship/Noob_noob3 4.18/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" 2177
-"../../../../Projects/Internship/Noob_noob3 4.18/Content/StarterContent/Shapes/Shape_Pipe.uasset" 2178
-"../../../../Projects/Internship/Noob_noob3 4.18/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" 2179
-"../../../../Projects/Internship/Noob_noob3 4.18/Content/StarterContent/Shapes/Shape_Cylinder.uasset" 2180
-"../../../../Projects/Internship/Noob_noob3 4.18/Content/StarterContent/Shapes/Shape_Cone.uasset" 2181
-"../../../../Projects/Internship/Noob_noob3 4.18/Content/StarterContent/Props/Materials/M_Shelf.uasset" 2182
-"../../../../Projects/Internship/Noob_noob3 4.18/Content/StarterContent/Props/Materials/M_Rock.uasset" 2183
-"../../../../Projects/Internship/Noob_noob3 4.18/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" 2184
-"../../../../Projects/Internship/Noob_noob3 4.18/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" 2185
-"../../../../Projects/Internship/Noob_noob3 4.18/Content/StarterContent/Props/Materials/M_Door.uasset" 2186
-"../../../../Projects/Internship/Noob_noob3 4.18/Content/StarterContent/Props/Materials/M_Bush.uasset" 2187
-"../../../../Projects/Internship/Noob_noob3 4.18/Content/StarterContent/Props/SM_Stairs.uasset" 2188
-"../../../../Projects/Internship/Noob_noob3 4.18/Content/StarterContent/Props/SM_Shelf.uasset" 2189
-"../../../../Projects/Internship/Noob_noob3 4.18/Content/StarterContent/Props/SM_Rock.uasset" 2190
-"../../../../Projects/Internship/Noob_noob3 4.18/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" 2191
-"../../../../Projects/Internship/Noob_noob3 4.18/Content/StarterContent/Props/SM_Door.uasset" 2192
-"../../../../Projects/Internship/Noob_noob3 4.18/Content/StarterContent/Props/SM_Couch.uasset" 2193
-"../../../../Projects/Internship/Noob_noob3 4.18/Content/StarterContent/Props/SM_Bush.uasset" 2194
-"../../../../Projects/Internship/Noob_noob3 4.18/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" 2195
-"../../../../Projects/Internship/Noob_noob3 4.18/Content/StarterContent/Particles/Materials/m_flare_01.uasset" 2196
-"../../../../Projects/Internship/Noob_noob3 4.18/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" 2197
-"../../../../Projects/Internship/Noob_noob3 4.18/Content/StarterContent/Particles/Materials/M_Burst.uasset" 2198
-"../../../../Projects/Internship/Noob_noob3 4.18/Content/StarterContent/Particles/P_Explosion.uasset" 2199
-"../../../../Projects/Internship/Noob_noob3 4.18/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" 2200
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/T_ColorGrid.uasset" 2201
-"../../../../Projects/Internship/Noob_noob3 4.18/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" 2202
-"../../../../Projects/Internship/Noob_noob3 4.18/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" 2203
-"../../../../Projects/Internship/Noob_noob3 4.18/Content/StarterContent/Audio/Explosion_Cue.uasset" 2204
-"../../../../Projects/Internship/Noob_noob3 4.18/Content/StarterContent/Audio/Explosion01.uasset" 2205
-"../../../../Projects/Internship/Noob_noob3 4.18/Content/StarterContent/Audio/Explosion02.uasset" 2206
-"../../../../Projects/Internship/Noob_noob3 4.18/Content/StarterContent/Audio/Light02_Cue.uasset" 2207
-"../../../../Projects/Internship/Noob_noob3 4.18/Content/StarterContent/Audio/Light02.uasset" 2208
-"../../../../Projects/Internship/Noob_noob3 4.18/Content/StarterContent/Audio/Light01_Cue.uasset" 2209
-"../../../../Projects/Internship/Noob_noob3 4.18/Content/StarterContent/Audio/Light01.uasset" 2210
-"../../../../Projects/Internship/Noob_noob3 4.18/Content/StarterContent/Maps/Minimal_Default.umap" 2211
-"../../../../Projects/Internship/Noob_noob3 4.18/Content/Levels/HubLevel.umap" 2212
-"../../../../Projects/Internship/Noob_noob3 4.18/Content/Levels/HubLevel_BuiltData.uasset" 2213
-"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/1/2/REFL_ENC_0C6693969CB849AE9F4120FF5812F4D3_1755492841944066A5A3CAA23740C1E3_128_1.udd" 2214
-"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/7/3/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_A075DFD342D46150B3A09CBA7517B__B603F23E00438D9C8070C9D0A87863D00961C467.udd" 2215
-"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/9/7/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_A9DF4F7247D60E58CA97A3A091E44__522663EC95F88F7B2EEF2B31D0932D8A435B42DF.udd" 2216
-"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/4/3/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_2A34B9D24FF40139B041238D330D4FA6__BD970782073B022D1670BCC0C4F40A8E08118906.udd" 2217
-"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/5/2/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_A075DFD342D46150B3A09CBA7517B__811C8285D29BE6A3904539C7C73B6DCF27CD649D.udd" 2218
-"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/7/3/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_5EB31BE94821BC4F6000BFB63B8BC07D__FAA453F969D04850E9E54A8F0AF8C807F4ADBA57.udd" 2219
-"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/2/6/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_2A34B9D24FF40139B041238D330D4FA6__A64F088F91D0FC573E471831F0FF7CA0A9FEFA13.udd" 2220
-"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/5/3/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_CC85B07F4F6511B4F6A019AF92CBA722_0__5E1150000D8D7AE7B3C264AF1F36ACA128B3EC6B.udd" 2221
-"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/9/5/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_BA5618B94F7DA1A2135F408734D485C6_0__F810E218286C9E68B440FE1032C3C30C598E9388.udd" 2222
-"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/3/4/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_0A3024B845878E58736EB79D06437__CD79B1CC04A6570C3C9E71B024BB877E83868514.udd" 2223
-"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/9/2/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_CC85B07F4F6511B4F6A019AF92CBA722_0__52059A003C79B5E735C57B0E99A6FA0BBF876451.udd" 2224
-"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/0/0/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_3700D3FA448EC4D117C575AAD2125__777DF33CEE36DC906BAF61AFFD915AE4D1D5011C.udd" 2225
-"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/4/1/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_0A3024B845878E58736EB79D06437__D05B7AFE399A28FA546327731A40398EC7AC6600.udd" 2226
-"../../../../Projects/Internship/Noob_noob3 4.18/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" 2227
-"../../../../Projects/Internship/Noob_noob3 4.18/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" 2228
-"../../../../Projects/Internship/Noob_noob3 4.18/Content/StarterContent/Architecture/Wall_500x500.uasset" 2229
-"../../../../Projects/Internship/Noob_noob3 4.18/Content/StarterContent/Architecture/Wall_400x400.uasset" 2230
-"../../../../Projects/Internship/Noob_noob3 4.18/Content/StarterContent/Architecture/Wall_400x300.uasset" 2231
-"../../../../Projects/Internship/Noob_noob3 4.18/Content/StarterContent/Architecture/Pillar_50x500.uasset" 2232
-"../../../../Projects/Internship/Noob_noob3 4.18/Content/Sounds/Blop-Mark_DiAngelo-79054334.uasset" 2233
-"../../../../Projects/Internship/Noob_noob3 4.18/Content/Mannequin/Character/Textures/UE4_Mannequin__normals.uasset" 2234
-"../../../../Projects/Internship/Noob_noob3 4.18/Content/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset" 2235
-"../../../../Projects/Internship/Noob_noob3 4.18/Content/Mannequin/Character/Textures/UE4_LOGO_CARD.uasset" 2236
-"../../../../Projects/Internship/Noob_noob3 4.18/Content/Mannequin/Character/Textures/UE4Man_Logo_N.uasset" 2237
-"../../../../Projects/Internship/Noob_noob3 4.18/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset" 2238
-"../../../../Projects/Internship/Noob_noob3 4.18/Content/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.uasset" 2239
-"../../../../Projects/Internship/Noob_noob3 4.18/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset" 2240
-"../../../../Projects/Internship/Noob_noob3 4.18/Content/Mannequin/Character/Materials/M_UE4Man_Body.uasset" 2241
-"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 2242
-"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 2243
-"../../../../Projects/Internship/Noob_noob3 4.18/Content/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 2244
-"../../../../Projects/Internship/Noob_noob3 4.18/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 2245
-"../../../../Projects/Internship/Noob_noob3 4.18/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 2246
-"../../../../Projects/Internship/Noob_noob3 4.18/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 2247
-"../../../../Projects/Internship/Noob_noob3 4.18/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 2248
-"../../../../Projects/Internship/Noob_noob3 4.18/Content/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 2249
-"../../../../Projects/Internship/Noob_noob3 4.18/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 2250
-"../../../../Projects/Internship/Noob_noob3 4.18/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 2251
-"../../../../Projects/Internship/Noob_noob3 4.18/Content/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uasset" 2252
-"../../../../Projects/Internship/Noob_noob3 4.18/Content/Mannequin/Animations/ThirdPerson_Jump.uasset" 2253
-"../../../../Projects/Internship/Noob_noob3 4.18/Content/Mannequin/Animations/ThirdPerson_IdleRun_2D.uasset" 2254
-"../../../../Projects/Internship/Noob_noob3 4.18/Content/Mannequin/Animations/ThirdPersonIdle.uasset" 2255
-"../../../../Projects/Internship/Noob_noob3 4.18/Content/Mannequin/Animations/ThirdPersonRun.uasset" 2256
-"../../../../Projects/Internship/Noob_noob3 4.18/Content/Mannequin/Animations/ThirdPersonWalk.uasset" 2257
-"../../../../Projects/Internship/Noob_noob3 4.18/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset" 2258
-"../../../../Projects/Internship/Noob_noob3 4.18/Content/Mannequin/Animations/ThirdPersonJump_Loop.uasset" 2259
-"../../../../Projects/Internship/Noob_noob3 4.18/Content/Mannequin/Animations/ThirdPersonJump_Start.uasset" 2260
-"../../../../Projects/Internship/Noob_noob3 4.18/Content/Mannequin/Animations/ThirdPersonJump_End.uasset" 2261
-"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/2/4/ANIMSEQ_44870622F1374957B3252BC65DDCFA9F_1_0_0_A652D4CA20D42E84DC3B03CAA1888CE__D6FD08F63DDFA6EF4C3E942D3A288E6683A0C97F.udd" 2262
-"../../../../Projects/Internship/Noob_noob3 4.18/Content/Levels/World1_BuiltData.uasset" 2263
-"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/0/4/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_8E6EAF83451A4887B9B252B1B4A99__E4AE0E6834E8E2BD17A823D8E451A86F2C6DD9F5.udd" 2264
-"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/0/0/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_90B98BB349478BAA5AD64E89110BD__E75C730CAE48ED1E32271763C31B156C6E810B6F.udd" 2265
-"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/2/9/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_CBACF1D44459416A4449F8A7BF9F44F6__1398E947BA5F5BEC371C980BECEE224D38F5E2B2.udd" 2266
-"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/8/6/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_615800B946EFD30A89430C943D29C80C__1C66CE4F039FC3CFB3FF39185B83FFA70F855FF9.udd" 2267
-"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/5/3/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_C6283DFB41BCAF549FD79590FE181C67_0__4A326EE3F6E8D54AF8941D9634EA1031C1E22A71.udd" 2268
-"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/0/2/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_7DAECD264E8AC8457EE2DD82AA4FB0D7_0__79A3BF456FA793815D937565B570501BC40DD62F.udd" 2269
-"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/5/7/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_0C525D4947DCBDAC4DB655B84678F__0DB88D39CA822CEC9C738CA8D8A36A536A369F12.udd" 2270
-"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/1/8/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_9AE08D1748CD408519749184262B6__0A7D5F195910BEEC90DFDC5EA5F28DE12E090348.udd" 2271
-"../../../../Projects/Internship/Noob_noob3 4.18/Content/GUI/Start_Screen/StartScreen01.uasset" 2272
-"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/7/3/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_4815512944B82E85828A90A0B1E66__9DA2EB5108C42DBF1A56A0D22172699D95B64155.udd" 2273
-"../../../../Projects/Internship/Noob_noob3 4.18/Content/GUI/Map_Screen/BottomPlate02.uasset" 2274
-"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/3/7/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_8E6EAF83451A4887B9B252B1B4A99__9AC7B61CBFBB6860954A716C1A0DE44C83E20E4C.udd" 2275
-"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/1/7/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_0C525D4947DCBDAC4DB655B84678F__289CC7E5F7D7BC6DDDDC10BAC1C9A0DEADFB089C.udd" 2276
-"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/4/2/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_0CEF1DDD4BA1CEB81BA9338AA4FCE46__57FE31AA481455D49C14722CC0F94CBF5D44EE05.udd" 2277
-"../../../../Projects/Internship/Noob_noob3 4.18/Content/3D/HUBLab/PortalMat_gray.uasset" 2278
-"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/2/2/MATSM_24CFB3A24FF7412DB1277B5C2B5936DE_PCD3D_SM5_7__BC5N_NOCCBN_DEV_SL_DBUF_UN__D595B1FE33F67971323D69AD6FD38056FE728D6E.udd" 2279
-"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/6/2/MATSM_24CFB3A24FF7412DB1277B5C2B5936DE_PCD3D_SM4_7__BC5N_NOCCBN_DEV_SL_DBUF_UN__8C91C7D86C957BAE238153A3C23900C3CBF4C1BB.udd" 2280
-"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/7/7/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_CBACF1D44459416A4449F8A7BF9F44F6__7F87090D3613326B5044DF31DD86188729DB3428.udd" 2281
-"../../../../Projects/Internship/Noob_noob3 4.18/Content/3D/HUBLab/PortalMat_dark.uasset" 2282
-"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/7/1/MATSM_24CFB3A24FF7412DB1277B5C2B5936DE_PCD3D_SM5_7__BC5N_NOCCBN_DEV_SL_DBUF_UN__4A1BE4BDCFE22388E71ABA2C6F9CE4409CCAECC2.udd" 2283
-"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/4/7/MATSM_24CFB3A24FF7412DB1277B5C2B5936DE_PCD3D_SM4_7__BC5N_NOCCBN_DEV_SL_DBUF_UN__78280F4F77716AD986615D4B04C88F2785BB3285.udd" 2284
-"../../../../Projects/Internship/Noob_noob3 4.18/Content/3D/HUBLab/mat_floor.uasset" 2285
-"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/1/6/MATSM_24CFB3A24FF7412DB1277B5C2B5936DE_PCD3D_SM5_7__BC5N_NOCCBN_DEV_SL_DBUF_UN__CFFE58CC4F62BB78E4F53EAA5287EB689D241596.udd" 2286
-"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/2/5/MATSM_24CFB3A24FF7412DB1277B5C2B5936DE_PCD3D_SM4_7__BC5N_NOCCBN_DEV_SL_DBUF_UN__464DDA72E3286A713A2F3BA1D68E06D6497081A9.udd" 2287
-"../../../../Projects/Internship/Noob_noob3 4.18/Content/3D/HUBLab/MapScreen_globe.uasset" 2288
-"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/5/4/MATSM_24CFB3A24FF7412DB1277B5C2B5936DE_PCD3D_SM5_7__BC5N_NOCCBN_DEV_SL_DBUF_UN__8611BF834614DD9F5249F28983ADB32B05555A5B.udd" 2289
-"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/9/7/MATSM_24CFB3A24FF7412DB1277B5C2B5936DE_PCD3D_SM4_7__BC5N_NOCCBN_DEV_SL_DBUF_UN__E0F8BBAEADFE7EE868EAA8CA5FEDB121AB96E969.udd" 2290
-"../../../../Projects/Internship/Noob_noob3 4.18/Content/3D/HUBLab/MapBaseMat_blue.uasset" 2291
-"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/7/6/MATSM_24CFB3A24FF7412DB1277B5C2B5936DE_PCD3D_SM5_7__BC5N_NOCCBN_DEV_SL_DBUF_UN__4F522B0C337F70761808DBC600E07F01362FE922.udd" 2292
-"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/7/1/MATSM_24CFB3A24FF7412DB1277B5C2B5936DE_PCD3D_SM4_7__BC5N_NOCCBN_DEV_SL_DBUF_UN__975135D098554E63B7A660EB33C83D18E98206CE.udd" 2293
-"../../../../Projects/Internship/Noob_noob3 4.18/Content/3D/HUBLab/lambert7.uasset" 2294
-"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/7/8/MATSM_24CFB3A24FF7412DB1277B5C2B5936DE_PCD3D_SM5_7__BC5N_NOCCBN_DEV_SL_DBUF_UN__E7AC06374427F2E9A0D44A48CF739625D525A0FB.udd" 2295
-"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/4/8/MATSM_24CFB3A24FF7412DB1277B5C2B5936DE_PCD3D_SM4_7__BC5N_NOCCBN_DEV_SL_DBUF_UN__5007898A7E19097B467FA2B8BBC0B0B87DCE1AA6.udd" 2296
-"../../../../Projects/Internship/Noob_noob3 4.18/Content/3D/HUBLab/HubLabMat_light.uasset" 2297
-"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/5/4/MATSM_24CFB3A24FF7412DB1277B5C2B5936DE_PCD3D_SM5_7__BC5N_NOCCBN_DEV_SL_DBUF_UN__0B8A01436D574C0E023B3CB3CC46F3AB9A48810B.udd" 2298
-"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/4/7/MATSM_24CFB3A24FF7412DB1277B5C2B5936DE_PCD3D_SM4_7__BC5N_NOCCBN_DEV_SL_DBUF_UN__752E83701D0AC5D76416AC87D19790510C0A2E08.udd" 2299
-"../../../../Projects/Internship/Noob_noob3 4.18/Content/3D/HUBLab/HubLab02_PortalBase.uasset" 2300
-"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/8/0/STATICMESH_8A752B9E4A904F25B0AB9D65A70A8BDC_228332BAE0224DD294E232B87D83948F1$__02CE7BBF5A2EA16BF652D4C9FC3E94992527E820.udd" 2301
-"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/7/7/NAVCOLLISION_B89838347A4348138EE337A847529C5C_NAVCOLLISION_X_04A6ECEC4C6275136__5BEC147588932FC48019CA3A5A516773E33F98E0.udd" 2302
-"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/9/4/PHYSX_3B0AB674B19F4A698B28F7025C031EA2_PHYSXPC_04A6ECEC4C62751369C588BE530244A__F0CED667A9D17A31925D75E16E800EE3A6967611.udd" 2303
-"../../../../Projects/Internship/Noob_noob3 4.18/Content/3D/HUBLab/HubLab02_MapGlobe.uasset" 2304
-"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/7/7/STATICMESH_8A752B9E4A904F25B0AB9D65A70A8BDC_228332BAE0224DD294E232B87D83948F1$__2EBBFFE4698ECB31EA30DA2E7F30A193E3DFD91B.udd" 2305
-"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/6/6/NAVCOLLISION_B89838347A4348138EE337A847529C5C_NAVCOLLISION_X_CCCF96B34AD779B83__65F6122C161B96704552F5C6128FB452BCED856E.udd" 2306
-"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/2/9/PHYSX_3B0AB674B19F4A698B28F7025C031EA2_PHYSXPC_CCCF96B34AD779B832F2E5A21D43BE8__DF75F52EF6C607F605D33100C16010085D7D039B.udd" 2307
-"../../../../Projects/Internship/Noob_noob3 4.18/Content/3D/HUBLab/HubLab02_MapBase.uasset" 2308
-"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/3/4/STATICMESH_8A752B9E4A904F25B0AB9D65A70A8BDC_228332BAE0224DD294E232B87D83948F1$__4E105AB5682401BF2BB7139C1A45684B7CA6BB62.udd" 2309
-"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/0/9/NAVCOLLISION_B89838347A4348138EE337A847529C5C_NAVCOLLISION_X_0164C2BF4D9A1AC26__FD1BA42D43175C8E61F2057A2D9568DEE31C9E63.udd" 2310
-"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/3/1/PHYSX_3B0AB674B19F4A698B28F7025C031EA2_PHYSXPC_0164C2BF4D9A1AC26C0E6E8CF4006A9__6870CF3A67D444AAE1125A7CB3469F6F4BBE46C1.udd" 2311
-"../../../../Projects/Internship/Noob_noob3 4.18/Content/3D/HUBLab/HubLab02_LabFloor.uasset" 2312
-"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/3/8/STATICMESH_8A752B9E4A904F25B0AB9D65A70A8BDC_228332BAE0224DD294E232B87D83948F1$__C6655B1C910DBD25C6FDB92B277AFF47330DA8F9.udd" 2313
-"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/6/8/NAVCOLLISION_B89838347A4348138EE337A847529C5C_NAVCOLLISION_X_7B8692844695A915F__6A627EDE06A0FDBBD4F31B3073739F67F76EFC16.udd" 2314
-"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/2/9/PHYSX_3B0AB674B19F4A698B28F7025C031EA2_PHYSXPC_7B8692844695A915FACB9CAF177F2A3__0E6D254CC985B686F0DB8019555CBE2A04D62E86.udd" 2315
-"../../../../Projects/Internship/Noob_noob3 4.18/Content/3D/HUBLab/HubLab02_ArcadeCabinet.uasset" 2316
-"../../../../Projects/Internship/Noob_noob3 4.18/Content/3D/HUBLab/ArcadeMat_blue.uasset" 2317
-"../../../../Projects/Internship/Noob_noob3 4.18/Content/3D/HUBLab/ArcadeMat_cyan.uasset" 2318
-"../../../../Projects/Internship/Noob_noob3 4.18/Content/3D/HUBLab/ArcadeMat_green.uasset" 2319
-"../../../../Projects/Internship/Noob_noob3 4.18/Content/3D/HUBLab/ArcadeMat_red.uasset" 2320
-"../../../../Projects/Internship/Noob_noob3 4.18/Content/3D/HUBLab/ArcadeMat_rubber.uasset" 2321
-"../../../../Projects/Internship/Noob_noob3 4.18/Content/3D/HUBLab/ArcadeMat_screen.uasset" 2322
-"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/0/4/STATICMESH_8A752B9E4A904F25B0AB9D65A70A8BDC_228332BAE0224DD294E232B87D83948F1$__BB830C13A7FC2A161EE5AB863691AF0200241B29.udd" 2323
-"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/9/8/NAVCOLLISION_B89838347A4348138EE337A847529C5C_NAVCOLLISION_X_F71AC06245E556879__B40ED7985B3AE29A94955DA0D4E69BA441AEF95A.udd" 2324
-"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/3/3/PHYSX_3B0AB674B19F4A698B28F7025C031EA2_PHYSXPC_F71AC06245E5568799ABFF951BBD630__D7A72389EA0CF59F790F1CF5FC45F3DD054A0E57.udd" 2325
-"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/9/6/MATSM_24CFB3A24FF7412DB1277B5C2B5936DE_PCD3D_SM5_7__BC5N_NOCCBN_DEV_SL_DBUF_UN__D54A42D3862CE4D57C098EB3E6E352B2F6284FC2.udd" 2326
-"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/0/5/MATSM_24CFB3A24FF7412DB1277B5C2B5936DE_PCD3D_SM4_7__BC5N_NOCCBN_DEV_SL_DBUF_UN__3EA66A14738062799871439A9400C8820FCD7C99.udd" 2327
-"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/1/6/MATSM_24CFB3A24FF7412DB1277B5C2B5936DE_PCD3D_SM5_7__BC5N_NOCCBN_DEV_SL_DBUF_UN__2EF376EBC2D4B3B949C5A20CFD064AF10A8AD394.udd" 2328
-"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/7/6/MATSM_24CFB3A24FF7412DB1277B5C2B5936DE_PCD3D_SM4_7__BC5N_NOCCBN_DEV_SL_DBUF_UN__42E5589A106EDE46C1227D1FBC2622E19E0BEB4D.udd" 2329
-"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/4/0/MATSM_24CFB3A24FF7412DB1277B5C2B5936DE_PCD3D_SM5_7__BC5N_NOCCBN_DEV_SL_DBUF_UN__3D17043DD64F2E4501097472394C4C6D3298AFDC.udd" 2330
-"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/6/0/MATSM_24CFB3A24FF7412DB1277B5C2B5936DE_PCD3D_SM4_7__BC5N_NOCCBN_DEV_SL_DBUF_UN__AC5E5CC4674AC1B26E4D6BFB00885773EB597B9C.udd" 2331
-"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/6/6/MATSM_24CFB3A24FF7412DB1277B5C2B5936DE_PCD3D_SM5_7__BC5N_NOCCBN_DEV_SL_DBUF_UN__189B52973E487A9D4E048DB41D63D260C18E5668.udd" 2332
-"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/2/1/MATSM_24CFB3A24FF7412DB1277B5C2B5936DE_PCD3D_SM4_7__BC5N_NOCCBN_DEV_SL_DBUF_UN__3F4E99D980F29F4183EE9693AE135C2D85C476AE.udd" 2333
-"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/3/2/MATSM_24CFB3A24FF7412DB1277B5C2B5936DE_PCD3D_SM5_7__BC5N_NOCCBN_DEV_SL_DBUF_UN__9531E248E31A0FEED52F794A6A9B9C63E4F0D809.udd" 2334
-"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/6/0/MATSM_24CFB3A24FF7412DB1277B5C2B5936DE_PCD3D_SM4_7__BC5N_NOCCBN_DEV_SL_DBUF_UN__F7EEF35514AB087CC472CD311B1043FCCE1BBC86.udd" 2335
-"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/3/1/MATSM_24CFB3A24FF7412DB1277B5C2B5936DE_PCD3D_SM5_7__BC5N_NOCCBN_DEV_SL_DBUF_UN__68761D6868B4DA114B10ED92712192F07E066E20.udd" 2336
-"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/9/4/MATSM_24CFB3A24FF7412DB1277B5C2B5936DE_PCD3D_SM4_7__BC5N_NOCCBN_DEV_SL_DBUF_UN__41E029D0299444503835E376A0E2C67A211F8D1D.udd" 2337
-"../../../../Projects/Internship/Noob_noob3 4.18/Content/3D/HUBLab/HubLab02_AnimalInfo.uasset" 2338
-"../../../../Projects/Internship/Noob_noob3 4.18/Content/3D/HUBLab/AnimalInfo_base.uasset" 2339
-"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/4/0/STATICMESH_8A752B9E4A904F25B0AB9D65A70A8BDC_228332BAE0224DD294E232B87D83948F1$__5595909837D1E385A6BD420B9D9BFA6D2F1F7984.udd" 2340
-"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/2/3/NAVCOLLISION_B89838347A4348138EE337A847529C5C_NAVCOLLISION_X_E9073C9C4D37692B6__38799D3205BCCC7348E6D28B878F5829414C69D9.udd" 2341
-"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/1/6/PHYSX_3B0AB674B19F4A698B28F7025C031EA2_PHYSXPC_E9073C9C4D37692B6FC78EA7FB2C055__7F724D7C19A9F3E01D1166F2D64F680A968D5E9C.udd" 2342
-"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/2/9/MATSM_24CFB3A24FF7412DB1277B5C2B5936DE_PCD3D_SM5_7__BC5N_NOCCBN_DEV_SL_DBUF_UN__15F09495F42E795A57C9FB338E8D944B4892ED49.udd" 2343
-"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/8/5/MATSM_24CFB3A24FF7412DB1277B5C2B5936DE_PCD3D_SM4_7__BC5N_NOCCBN_DEV_SL_DBUF_UN__C133A78CEA4CDA7D372DE7551CE69EB11595C62B.udd" 2344
-"../../../../Projects/Internship/Noob_noob3 4.18/Content/3D/Collectables/Poop.uasset" 2345
-"../../../../Projects/Internship/Noob_noob3 4.18/Content/3D/Collectables/Mat_Poop.uasset" 2346
-"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/0/5/STATICMESH_8A752B9E4A904F25B0AB9D65A70A8BDC_228332BAE0224DD294E232B87D83948F1$__3A38A87F7D39AC9ECEE812DA8BF103AE789D138B.udd" 2347
-"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/7/7/NAVCOLLISION_B89838347A4348138EE337A847529C5C_NAVCOLLISION_X_DAA98B2F4A1487C5E__36785A8EB84C990F568B3BC22A157937F1C799F7.udd" 2348
-"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/2/8/PHYSX_3B0AB674B19F4A698B28F7025C031EA2_PHYSXPC_DAA98B2F4A1487C5E39FCABE9DF9E9E__094B732AF3BC89D79C8500B4A9A89D4386C05CB0.udd" 2349
-"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/4/6/MATSM_24CFB3A24FF7412DB1277B5C2B5936DE_PCD3D_SM5_7__BC5N_NOCCBN_DEV_SL_DBUF_UN__790DE14B057877EEF91DF452724D34AAD031F6D0.udd" 2350
-"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/7/3/MATSM_24CFB3A24FF7412DB1277B5C2B5936DE_PCD3D_SM4_7__BC5N_NOCCBN_DEV_SL_DBUF_UN__28E8B9476BF07B018AE94599C3F8E1A55BAC90AF.udd" 2351
-"../../../../Projects/Internship/Noob_noob3 4.18/Content/3D/Actors/Collect.uasset" 2352
-"../../../../Projects/Internship/Noob_noob3 4.18/Content/GameInstance.uasset" 2353
-"../../../Engine/Content/Tutorial/Landscape/Landscape_Manage_Mode.uasset" 2354
-"../../../Engine/Content/Tutorial/Landscape/Landscape_Sculpt_Mode.uasset" 2355
-"../../../Engine/Content/Tutorial/Landscape/Landscape_Painting_Mode.uasset" 2356
-"../../../Engine/Content/Tutorial/SubEditors/PersonaAnimBlueprintEditorWalkthrough.uasset" 2357
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_AnimBlueprint.uasset" 2358
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialCharacter.uasset" 2359
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP.uasset" 2360
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_Mat.uasset" 2361
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_PhysicsAsset.uasset" 2362
-"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintMacroLibrariesEditorOverview.uasset" 2363
-"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/BlueprintMacroLibrary_64x.uasset" 2364
-"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Tutorial_BP_MacroLib.uasset" 2365
-"../../../Engine/Content/Tutorial/Paper2D/FlipbookEditorTutorial.uasset" 2366
-"../../../Engine/Content/Tutorial/Paper2D/TutorialAssets/Paper2DFlipbook_TutorialIcon.uasset" 2367
-"../../../Engine/Content/Tutorial/Landscape/LandscapeWalkThrough.uasset" 2368
-"../../../Engine/Content/Tutorial/SubEditors/ParticleSystemEditorTutorial.uasset" 2369
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialParticleSystem.uasset" 2370
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/M_smoke_subUV_blackbody.uasset" 2371
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/T_SmokeSubUV_8X8.uasset" 2372
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/T_soft_smoke.uasset" 2373
-"../../../Engine/Content/Tutorial/BlueprintTutorials/LevelBlueprintEditorOverview.uasset" 2374
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 2149
+"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/9/5/PHYSX_3B0AB674B19F4A698B28F7025C031EA2_PHYSXPC_5AA760394E3F6591545B6B9351F5A05F__1_0_0_0_2_13315_0.udd" 2150
+"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/5/9/PHYSX_3B0AB674B19F4A698B28F7025C031EA2_PHYSXPC_C41B00A84931EC2EFAC7C295B0580907__1_0_0_0_2_13315_0.udd" 2151
+"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/8/9/REFL_ENC_0C6693969CB849AE9F4120FF5812F4D3_5004518B4AD4588C103536A4981A0284_128_1.udd" 2152
+"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/0/0/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_9ABE050D43CF1BD5EE869299E79C8BC1_0__52A674713D9DC4A9E2FB2A90B6B2D1C9C4D77FAA.udd" 2153
+"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/4/7/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_EBA00E4144A8439F39484A84270AE7A8_0__31A101B7B98D3B6F453A2C6A6CE293845F880B5E.udd" 2154
+"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/6/5/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_9ABE050D43CF1BD5EE869299E79C8BC1_0__BDC56523DF8C4F24A0B969706ECB9F293EF79C39.udd" 2155
+"../../../../Projects/Internship/Noob_noob3 4.18/Content/ThirdPersonBP/ThirdPersonOverview.uasset" 2156
+"../../../../Projects/Internship/Noob_noob3 4.18/Content/ThirdPerson/Meshes/CubeMaterial.uasset" 2157
+"../../../../Projects/Internship/Noob_noob3 4.18/Content/StarterContent/Textures/T_Shelf_N.uasset" 2158
+"../../../../Projects/Internship/Noob_noob3 4.18/Content/StarterContent/Textures/T_Shelf_M.uasset" 2159
+"../../../../Projects/Internship/Noob_noob3 4.18/Content/StarterContent/Textures/T_RockMesh_N.uasset" 2160
+"../../../../Projects/Internship/Noob_noob3 4.18/Content/StarterContent/Textures/T_RockMesh_M.uasset" 2161
+"../../../../Projects/Internship/Noob_noob3 4.18/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" 2162
+"../../../../Projects/Internship/Noob_noob3 4.18/Content/StarterContent/Textures/T_Door_N.uasset" 2163
+"../../../../Projects/Internship/Noob_noob3 4.18/Content/StarterContent/Textures/T_Door_M.uasset" 2164
+"../../../../Projects/Internship/Noob_noob3 4.18/Content/StarterContent/Textures/T_Bush_N.uasset" 2165
+"../../../../Projects/Internship/Noob_noob3 4.18/Content/StarterContent/Textures/T_Bush_D.uasset" 2166
+"../../../../Projects/Internship/Noob_noob3 4.18/Content/StarterContent/Textures/T_Burst_M.uasset" 2167
+"../../../../Projects/Internship/Noob_noob3 4.18/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" 2168
+"../../../../Projects/Internship/Noob_noob3 4.18/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" 2169
+"../../../../Projects/Internship/Noob_noob3 4.18/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" 2170
+"../../../../Projects/Internship/Noob_noob3 4.18/Content/StarterContent/Shapes/Shape_Tube.uasset" 2171
+"../../../../Projects/Internship/Noob_noob3 4.18/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" 2172
+"../../../../Projects/Internship/Noob_noob3 4.18/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" 2173
+"../../../../Projects/Internship/Noob_noob3 4.18/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" 2174
+"../../../../Projects/Internship/Noob_noob3 4.18/Content/StarterContent/Shapes/Shape_Trim.uasset" 2175
+"../../../../Projects/Internship/Noob_noob3 4.18/Content/StarterContent/Shapes/Shape_Torus.uasset" 2176
+"../../../../Projects/Internship/Noob_noob3 4.18/Content/StarterContent/Shapes/Shape_Plane.uasset" 2177
+"../../../../Projects/Internship/Noob_noob3 4.18/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" 2178
+"../../../../Projects/Internship/Noob_noob3 4.18/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" 2179
+"../../../../Projects/Internship/Noob_noob3 4.18/Content/StarterContent/Shapes/Shape_Pipe.uasset" 2180
+"../../../../Projects/Internship/Noob_noob3 4.18/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" 2181
+"../../../../Projects/Internship/Noob_noob3 4.18/Content/StarterContent/Shapes/Shape_Cylinder.uasset" 2182
+"../../../../Projects/Internship/Noob_noob3 4.18/Content/StarterContent/Shapes/Shape_Cone.uasset" 2183
+"../../../../Projects/Internship/Noob_noob3 4.18/Content/StarterContent/Props/Materials/M_Shelf.uasset" 2184
+"../../../../Projects/Internship/Noob_noob3 4.18/Content/StarterContent/Props/Materials/M_Rock.uasset" 2185
+"../../../../Projects/Internship/Noob_noob3 4.18/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" 2186
+"../../../../Projects/Internship/Noob_noob3 4.18/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" 2187
+"../../../../Projects/Internship/Noob_noob3 4.18/Content/StarterContent/Props/Materials/M_Door.uasset" 2188
+"../../../../Projects/Internship/Noob_noob3 4.18/Content/StarterContent/Props/Materials/M_Bush.uasset" 2189
+"../../../../Projects/Internship/Noob_noob3 4.18/Content/StarterContent/Props/SM_Stairs.uasset" 2190
+"../../../../Projects/Internship/Noob_noob3 4.18/Content/StarterContent/Props/SM_Shelf.uasset" 2191
+"../../../../Projects/Internship/Noob_noob3 4.18/Content/StarterContent/Props/SM_Rock.uasset" 2192
+"../../../../Projects/Internship/Noob_noob3 4.18/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" 2193
+"../../../../Projects/Internship/Noob_noob3 4.18/Content/StarterContent/Props/SM_Door.uasset" 2194
+"../../../../Projects/Internship/Noob_noob3 4.18/Content/StarterContent/Props/SM_Couch.uasset" 2195
+"../../../../Projects/Internship/Noob_noob3 4.18/Content/StarterContent/Props/SM_Bush.uasset" 2196
+"../../../../Projects/Internship/Noob_noob3 4.18/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" 2197
+"../../../../Projects/Internship/Noob_noob3 4.18/Content/StarterContent/Particles/Materials/m_flare_01.uasset" 2198
+"../../../../Projects/Internship/Noob_noob3 4.18/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" 2199
+"../../../../Projects/Internship/Noob_noob3 4.18/Content/StarterContent/Particles/Materials/M_Burst.uasset" 2200
+"../../../../Projects/Internship/Noob_noob3 4.18/Content/StarterContent/Particles/P_Explosion.uasset" 2201
+"../../../../Projects/Internship/Noob_noob3 4.18/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" 2202
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/T_ColorGrid.uasset" 2203
+"../../../../Projects/Internship/Noob_noob3 4.18/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" 2204
+"../../../../Projects/Internship/Noob_noob3 4.18/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" 2205
+"../../../../Projects/Internship/Noob_noob3 4.18/Content/StarterContent/Audio/Explosion_Cue.uasset" 2206
+"../../../../Projects/Internship/Noob_noob3 4.18/Content/StarterContent/Audio/Explosion01.uasset" 2207
+"../../../../Projects/Internship/Noob_noob3 4.18/Content/StarterContent/Audio/Explosion02.uasset" 2208
+"../../../../Projects/Internship/Noob_noob3 4.18/Content/StarterContent/Audio/Light02_Cue.uasset" 2209
+"../../../../Projects/Internship/Noob_noob3 4.18/Content/StarterContent/Audio/Light02.uasset" 2210
+"../../../../Projects/Internship/Noob_noob3 4.18/Content/StarterContent/Audio/Light01_Cue.uasset" 2211
+"../../../../Projects/Internship/Noob_noob3 4.18/Content/StarterContent/Audio/Light01.uasset" 2212
+"../../../../Projects/Internship/Noob_noob3 4.18/Content/StarterContent/Maps/Minimal_Default.umap" 2213
+"../../../../Projects/Internship/Noob_noob3 4.18/Content/Levels/HubLevel.umap" 2214
+"../../../../Projects/Internship/Noob_noob3 4.18/Content/Levels/HubLevel_BuiltData.uasset" 2215
+"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/2/0/PHYSX_3B0AB674B19F4A698B28F7025C031EA2_PHYSXPC_ACBFC52E47AC0733D58136A347BB8AA2__1_0_0_0_2_13315_0.udd" 2216
+"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/6/7/PHYSX_3B0AB674B19F4A698B28F7025C031EA2_PHYSXPC_DDB42CF640D16979858CEB87F01399EC__1_0_0_0_2_13315_0.udd" 2217
+"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/1/2/REFL_ENC_0C6693969CB849AE9F4120FF5812F4D3_1755492841944066A5A3CAA23740C1E3_128_1.udd" 2218
+"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/7/3/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_A075DFD342D46150B3A09CBA7517B__B603F23E00438D9C8070C9D0A87863D00961C467.udd" 2219
+"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/9/7/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_A9DF4F7247D60E58CA97A3A091E44__522663EC95F88F7B2EEF2B31D0932D8A435B42DF.udd" 2220
+"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/5/2/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_A075DFD342D46150B3A09CBA7517B__811C8285D29BE6A3904539C7C73B6DCF27CD649D.udd" 2221
+"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/4/3/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_2A34B9D24FF40139B041238D330D4FA6__BD970782073B022D1670BCC0C4F40A8E08118906.udd" 2222
+"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/5/3/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_CC85B07F4F6511B4F6A019AF92CBA722_0__5E1150000D8D7AE7B3C264AF1F36ACA128B3EC6B.udd" 2223
+"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/3/4/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_0A3024B845878E58736EB79D06437__CD79B1CC04A6570C3C9E71B024BB877E83868514.udd" 2224
+"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/2/6/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_2A34B9D24FF40139B041238D330D4FA6__A64F088F91D0FC573E471831F0FF7CA0A9FEFA13.udd" 2225
+"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/0/0/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_3700D3FA448EC4D117C575AAD2125__777DF33CEE36DC906BAF61AFFD915AE4D1D5011C.udd" 2226
+"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/7/3/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_5EB31BE94821BC4F6000BFB63B8BC07D__FAA453F969D04850E9E54A8F0AF8C807F4ADBA57.udd" 2227
+"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/4/1/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_0A3024B845878E58736EB79D06437__D05B7AFE399A28FA546327731A40398EC7AC6600.udd" 2228
+"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/9/2/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_CC85B07F4F6511B4F6A019AF92CBA722_0__52059A003C79B5E735C57B0E99A6FA0BBF876451.udd" 2229
+"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/9/5/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_BA5618B94F7DA1A2135F408734D485C6_0__F810E218286C9E68B440FE1032C3C30C598E9388.udd" 2230
+"../../../../Projects/Internship/Noob_noob3 4.18/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" 2231
+"../../../../Projects/Internship/Noob_noob3 4.18/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" 2232
+"../../../../Projects/Internship/Noob_noob3 4.18/Content/StarterContent/Architecture/Wall_500x500.uasset" 2233
+"../../../../Projects/Internship/Noob_noob3 4.18/Content/StarterContent/Architecture/Wall_400x400.uasset" 2234
+"../../../../Projects/Internship/Noob_noob3 4.18/Content/StarterContent/Architecture/Wall_400x300.uasset" 2235
+"../../../../Projects/Internship/Noob_noob3 4.18/Content/StarterContent/Architecture/Pillar_50x500.uasset" 2236
+"../../../../Projects/Internship/Noob_noob3 4.18/Content/Sounds/Blop-Mark_DiAngelo-79054334.uasset" 2237
+"../../../../Projects/Internship/Noob_noob3 4.18/Content/Mannequin/Character/Textures/UE4_Mannequin__normals.uasset" 2238
+"../../../../Projects/Internship/Noob_noob3 4.18/Content/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset" 2239
+"../../../../Projects/Internship/Noob_noob3 4.18/Content/Mannequin/Character/Textures/UE4_LOGO_CARD.uasset" 2240
+"../../../../Projects/Internship/Noob_noob3 4.18/Content/Mannequin/Character/Textures/UE4Man_Logo_N.uasset" 2241
+"../../../../Projects/Internship/Noob_noob3 4.18/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset" 2242
+"../../../../Projects/Internship/Noob_noob3 4.18/Content/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.uasset" 2243
+"../../../../Projects/Internship/Noob_noob3 4.18/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset" 2244
+"../../../../Projects/Internship/Noob_noob3 4.18/Content/Mannequin/Character/Materials/M_UE4Man_Body.uasset" 2245
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 2246
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 2247
+"../../../../Projects/Internship/Noob_noob3 4.18/Content/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 2248
+"../../../../Projects/Internship/Noob_noob3 4.18/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 2249
+"../../../../Projects/Internship/Noob_noob3 4.18/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 2250
+"../../../../Projects/Internship/Noob_noob3 4.18/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 2251
+"../../../../Projects/Internship/Noob_noob3 4.18/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 2252
+"../../../../Projects/Internship/Noob_noob3 4.18/Content/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 2253
+"../../../../Projects/Internship/Noob_noob3 4.18/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 2254
+"../../../../Projects/Internship/Noob_noob3 4.18/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 2255
+"../../../../Projects/Internship/Noob_noob3 4.18/Content/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uasset" 2256
+"../../../../Projects/Internship/Noob_noob3 4.18/Content/Mannequin/Animations/ThirdPerson_Jump.uasset" 2257
+"../../../../Projects/Internship/Noob_noob3 4.18/Content/Mannequin/Animations/ThirdPerson_IdleRun_2D.uasset" 2258
+"../../../../Projects/Internship/Noob_noob3 4.18/Content/Mannequin/Animations/ThirdPersonIdle.uasset" 2259
+"../../../../Projects/Internship/Noob_noob3 4.18/Content/Mannequin/Animations/ThirdPersonRun.uasset" 2260
+"../../../../Projects/Internship/Noob_noob3 4.18/Content/Mannequin/Animations/ThirdPersonWalk.uasset" 2261
+"../../../../Projects/Internship/Noob_noob3 4.18/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset" 2262
+"../../../../Projects/Internship/Noob_noob3 4.18/Content/Mannequin/Animations/ThirdPersonJump_Loop.uasset" 2263
+"../../../../Projects/Internship/Noob_noob3 4.18/Content/Mannequin/Animations/ThirdPersonJump_Start.uasset" 2264
+"../../../../Projects/Internship/Noob_noob3 4.18/Content/Mannequin/Animations/ThirdPersonJump_End.uasset" 2265
+"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/2/4/ANIMSEQ_44870622F1374957B3252BC65DDCFA9F_1_0_0_A652D4CA20D42E84DC3B03CAA1888CE__D6FD08F63DDFA6EF4C3E942D3A288E6683A0C97F.udd" 2266
+"../../../../Projects/Internship/Noob_noob3 4.18/Content/GUI/Start_Screen/StartScreen01.uasset" 2267
+"../../../../Projects/Internship/Noob_noob3 4.18/Content/GUI/Map_Screen/BottomPlate02.uasset" 2268
+"../../../../Projects/Internship/Noob_noob3 4.18/Content/3D/HUBLab/PortalMat_gray.uasset" 2269
+"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/7/3/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_4815512944B82E85828A90A0B1E66__9DA2EB5108C42DBF1A56A0D22172699D95B64155.udd" 2270
+"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/4/2/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_0CEF1DDD4BA1CEB81BA9338AA4FCE46__57FE31AA481455D49C14722CC0F94CBF5D44EE05.udd" 2271
+"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/2/2/MATSM_24CFB3A24FF7412DB1277B5C2B5936DE_PCD3D_SM5_7__BC5N_NOCCBN_DEV_SL_DBUF_UN__D595B1FE33F67971323D69AD6FD38056FE728D6E.udd" 2272
+"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/6/2/MATSM_24CFB3A24FF7412DB1277B5C2B5936DE_PCD3D_SM4_7__BC5N_NOCCBN_DEV_SL_DBUF_UN__8C91C7D86C957BAE238153A3C23900C3CBF4C1BB.udd" 2273
+"../../../../Projects/Internship/Noob_noob3 4.18/Content/3D/HUBLab/PortalMat_dark.uasset" 2274
+"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/7/1/MATSM_24CFB3A24FF7412DB1277B5C2B5936DE_PCD3D_SM5_7__BC5N_NOCCBN_DEV_SL_DBUF_UN__4A1BE4BDCFE22388E71ABA2C6F9CE4409CCAECC2.udd" 2275
+"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/4/7/MATSM_24CFB3A24FF7412DB1277B5C2B5936DE_PCD3D_SM4_7__BC5N_NOCCBN_DEV_SL_DBUF_UN__78280F4F77716AD986615D4B04C88F2785BB3285.udd" 2276
+"../../../../Projects/Internship/Noob_noob3 4.18/Content/3D/HUBLab/mat_floor.uasset" 2277
+"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/1/6/MATSM_24CFB3A24FF7412DB1277B5C2B5936DE_PCD3D_SM5_7__BC5N_NOCCBN_DEV_SL_DBUF_UN__CFFE58CC4F62BB78E4F53EAA5287EB689D241596.udd" 2278
+"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/2/5/MATSM_24CFB3A24FF7412DB1277B5C2B5936DE_PCD3D_SM4_7__BC5N_NOCCBN_DEV_SL_DBUF_UN__464DDA72E3286A713A2F3BA1D68E06D6497081A9.udd" 2279
+"../../../../Projects/Internship/Noob_noob3 4.18/Content/3D/HUBLab/MapScreen_globe.uasset" 2280
+"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/5/4/MATSM_24CFB3A24FF7412DB1277B5C2B5936DE_PCD3D_SM5_7__BC5N_NOCCBN_DEV_SL_DBUF_UN__8611BF834614DD9F5249F28983ADB32B05555A5B.udd" 2281
+"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/9/7/MATSM_24CFB3A24FF7412DB1277B5C2B5936DE_PCD3D_SM4_7__BC5N_NOCCBN_DEV_SL_DBUF_UN__E0F8BBAEADFE7EE868EAA8CA5FEDB121AB96E969.udd" 2282
+"../../../../Projects/Internship/Noob_noob3 4.18/Content/3D/HUBLab/MapBaseMat_blue.uasset" 2283
+"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/7/6/MATSM_24CFB3A24FF7412DB1277B5C2B5936DE_PCD3D_SM5_7__BC5N_NOCCBN_DEV_SL_DBUF_UN__4F522B0C337F70761808DBC600E07F01362FE922.udd" 2284
+"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/7/1/MATSM_24CFB3A24FF7412DB1277B5C2B5936DE_PCD3D_SM4_7__BC5N_NOCCBN_DEV_SL_DBUF_UN__975135D098554E63B7A660EB33C83D18E98206CE.udd" 2285
+"../../../../Projects/Internship/Noob_noob3 4.18/Content/3D/HUBLab/lambert7.uasset" 2286
+"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/7/8/MATSM_24CFB3A24FF7412DB1277B5C2B5936DE_PCD3D_SM5_7__BC5N_NOCCBN_DEV_SL_DBUF_UN__E7AC06374427F2E9A0D44A48CF739625D525A0FB.udd" 2287
+"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/4/8/MATSM_24CFB3A24FF7412DB1277B5C2B5936DE_PCD3D_SM4_7__BC5N_NOCCBN_DEV_SL_DBUF_UN__5007898A7E19097B467FA2B8BBC0B0B87DCE1AA6.udd" 2288
+"../../../../Projects/Internship/Noob_noob3 4.18/Content/3D/HUBLab/HubLabMat_light.uasset" 2289
+"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/5/4/MATSM_24CFB3A24FF7412DB1277B5C2B5936DE_PCD3D_SM5_7__BC5N_NOCCBN_DEV_SL_DBUF_UN__0B8A01436D574C0E023B3CB3CC46F3AB9A48810B.udd" 2290
+"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/4/7/MATSM_24CFB3A24FF7412DB1277B5C2B5936DE_PCD3D_SM4_7__BC5N_NOCCBN_DEV_SL_DBUF_UN__752E83701D0AC5D76416AC87D19790510C0A2E08.udd" 2291
+"../../../../Projects/Internship/Noob_noob3 4.18/Content/3D/HUBLab/HubLab02_PortalBase.uasset" 2292
+"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/8/0/STATICMESH_8A752B9E4A904F25B0AB9D65A70A8BDC_228332BAE0224DD294E232B87D83948F1$__02CE7BBF5A2EA16BF652D4C9FC3E94992527E820.udd" 2293
+"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/7/7/NAVCOLLISION_B89838347A4348138EE337A847529C5C_NAVCOLLISION_X_04A6ECEC4C6275136__5BEC147588932FC48019CA3A5A516773E33F98E0.udd" 2294
+"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/9/4/PHYSX_3B0AB674B19F4A698B28F7025C031EA2_PHYSXPC_04A6ECEC4C62751369C588BE530244A__F0CED667A9D17A31925D75E16E800EE3A6967611.udd" 2295
+"../../../../Projects/Internship/Noob_noob3 4.18/Content/3D/HUBLab/HubLab02_MapGlobe.uasset" 2296
+"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/7/7/STATICMESH_8A752B9E4A904F25B0AB9D65A70A8BDC_228332BAE0224DD294E232B87D83948F1$__2EBBFFE4698ECB31EA30DA2E7F30A193E3DFD91B.udd" 2297
+"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/6/6/NAVCOLLISION_B89838347A4348138EE337A847529C5C_NAVCOLLISION_X_CCCF96B34AD779B83__65F6122C161B96704552F5C6128FB452BCED856E.udd" 2298
+"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/2/9/PHYSX_3B0AB674B19F4A698B28F7025C031EA2_PHYSXPC_CCCF96B34AD779B832F2E5A21D43BE8__DF75F52EF6C607F605D33100C16010085D7D039B.udd" 2299
+"../../../../Projects/Internship/Noob_noob3 4.18/Content/3D/HUBLab/HubLab02_MapBase.uasset" 2300
+"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/3/4/STATICMESH_8A752B9E4A904F25B0AB9D65A70A8BDC_228332BAE0224DD294E232B87D83948F1$__4E105AB5682401BF2BB7139C1A45684B7CA6BB62.udd" 2301
+"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/0/9/NAVCOLLISION_B89838347A4348138EE337A847529C5C_NAVCOLLISION_X_0164C2BF4D9A1AC26__FD1BA42D43175C8E61F2057A2D9568DEE31C9E63.udd" 2302
+"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/3/1/PHYSX_3B0AB674B19F4A698B28F7025C031EA2_PHYSXPC_0164C2BF4D9A1AC26C0E6E8CF4006A9__6870CF3A67D444AAE1125A7CB3469F6F4BBE46C1.udd" 2303
+"../../../../Projects/Internship/Noob_noob3 4.18/Content/3D/HUBLab/HubLab02_LabFloor.uasset" 2304
+"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/3/8/STATICMESH_8A752B9E4A904F25B0AB9D65A70A8BDC_228332BAE0224DD294E232B87D83948F1$__C6655B1C910DBD25C6FDB92B277AFF47330DA8F9.udd" 2305
+"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/6/8/NAVCOLLISION_B89838347A4348138EE337A847529C5C_NAVCOLLISION_X_7B8692844695A915F__6A627EDE06A0FDBBD4F31B3073739F67F76EFC16.udd" 2306
+"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/2/9/PHYSX_3B0AB674B19F4A698B28F7025C031EA2_PHYSXPC_7B8692844695A915FACB9CAF177F2A3__0E6D254CC985B686F0DB8019555CBE2A04D62E86.udd" 2307
+"../../../../Projects/Internship/Noob_noob3 4.18/Content/3D/HUBLab/HubLab02_ArcadeCabinet.uasset" 2308
+"../../../../Projects/Internship/Noob_noob3 4.18/Content/3D/HUBLab/ArcadeMat_blue.uasset" 2309
+"../../../../Projects/Internship/Noob_noob3 4.18/Content/3D/HUBLab/ArcadeMat_cyan.uasset" 2310
+"../../../../Projects/Internship/Noob_noob3 4.18/Content/3D/HUBLab/ArcadeMat_green.uasset" 2311
+"../../../../Projects/Internship/Noob_noob3 4.18/Content/3D/HUBLab/ArcadeMat_red.uasset" 2312
+"../../../../Projects/Internship/Noob_noob3 4.18/Content/3D/HUBLab/ArcadeMat_rubber.uasset" 2313
+"../../../../Projects/Internship/Noob_noob3 4.18/Content/3D/HUBLab/ArcadeMat_screen.uasset" 2314
+"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/0/4/STATICMESH_8A752B9E4A904F25B0AB9D65A70A8BDC_228332BAE0224DD294E232B87D83948F1$__BB830C13A7FC2A161EE5AB863691AF0200241B29.udd" 2315
+"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/9/8/NAVCOLLISION_B89838347A4348138EE337A847529C5C_NAVCOLLISION_X_F71AC06245E556879__B40ED7985B3AE29A94955DA0D4E69BA441AEF95A.udd" 2316
+"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/3/3/PHYSX_3B0AB674B19F4A698B28F7025C031EA2_PHYSXPC_F71AC06245E5568799ABFF951BBD630__D7A72389EA0CF59F790F1CF5FC45F3DD054A0E57.udd" 2317
+"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/9/6/MATSM_24CFB3A24FF7412DB1277B5C2B5936DE_PCD3D_SM5_7__BC5N_NOCCBN_DEV_SL_DBUF_UN__D54A42D3862CE4D57C098EB3E6E352B2F6284FC2.udd" 2318
+"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/0/5/MATSM_24CFB3A24FF7412DB1277B5C2B5936DE_PCD3D_SM4_7__BC5N_NOCCBN_DEV_SL_DBUF_UN__3EA66A14738062799871439A9400C8820FCD7C99.udd" 2319
+"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/1/6/MATSM_24CFB3A24FF7412DB1277B5C2B5936DE_PCD3D_SM5_7__BC5N_NOCCBN_DEV_SL_DBUF_UN__2EF376EBC2D4B3B949C5A20CFD064AF10A8AD394.udd" 2320
+"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/7/6/MATSM_24CFB3A24FF7412DB1277B5C2B5936DE_PCD3D_SM4_7__BC5N_NOCCBN_DEV_SL_DBUF_UN__42E5589A106EDE46C1227D1FBC2622E19E0BEB4D.udd" 2321
+"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/4/0/MATSM_24CFB3A24FF7412DB1277B5C2B5936DE_PCD3D_SM5_7__BC5N_NOCCBN_DEV_SL_DBUF_UN__3D17043DD64F2E4501097472394C4C6D3298AFDC.udd" 2322
+"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/6/0/MATSM_24CFB3A24FF7412DB1277B5C2B5936DE_PCD3D_SM4_7__BC5N_NOCCBN_DEV_SL_DBUF_UN__AC5E5CC4674AC1B26E4D6BFB00885773EB597B9C.udd" 2323
+"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/6/6/MATSM_24CFB3A24FF7412DB1277B5C2B5936DE_PCD3D_SM5_7__BC5N_NOCCBN_DEV_SL_DBUF_UN__189B52973E487A9D4E048DB41D63D260C18E5668.udd" 2324
+"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/2/1/MATSM_24CFB3A24FF7412DB1277B5C2B5936DE_PCD3D_SM4_7__BC5N_NOCCBN_DEV_SL_DBUF_UN__3F4E99D980F29F4183EE9693AE135C2D85C476AE.udd" 2325
+"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/3/2/MATSM_24CFB3A24FF7412DB1277B5C2B5936DE_PCD3D_SM5_7__BC5N_NOCCBN_DEV_SL_DBUF_UN__9531E248E31A0FEED52F794A6A9B9C63E4F0D809.udd" 2326
+"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/6/0/MATSM_24CFB3A24FF7412DB1277B5C2B5936DE_PCD3D_SM4_7__BC5N_NOCCBN_DEV_SL_DBUF_UN__F7EEF35514AB087CC472CD311B1043FCCE1BBC86.udd" 2327
+"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/3/1/MATSM_24CFB3A24FF7412DB1277B5C2B5936DE_PCD3D_SM5_7__BC5N_NOCCBN_DEV_SL_DBUF_UN__68761D6868B4DA114B10ED92712192F07E066E20.udd" 2328
+"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/9/4/MATSM_24CFB3A24FF7412DB1277B5C2B5936DE_PCD3D_SM4_7__BC5N_NOCCBN_DEV_SL_DBUF_UN__41E029D0299444503835E376A0E2C67A211F8D1D.udd" 2329
+"../../../../Projects/Internship/Noob_noob3 4.18/Content/3D/HUBLab/HubLab02_AnimalInfo.uasset" 2330
+"../../../../Projects/Internship/Noob_noob3 4.18/Content/3D/HUBLab/AnimalInfo_base.uasset" 2331
+"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/4/0/STATICMESH_8A752B9E4A904F25B0AB9D65A70A8BDC_228332BAE0224DD294E232B87D83948F1$__5595909837D1E385A6BD420B9D9BFA6D2F1F7984.udd" 2332
+"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/2/3/NAVCOLLISION_B89838347A4348138EE337A847529C5C_NAVCOLLISION_X_E9073C9C4D37692B6__38799D3205BCCC7348E6D28B878F5829414C69D9.udd" 2333
+"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/1/6/PHYSX_3B0AB674B19F4A698B28F7025C031EA2_PHYSXPC_E9073C9C4D37692B6FC78EA7FB2C055__7F724D7C19A9F3E01D1166F2D64F680A968D5E9C.udd" 2334
+"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/2/9/MATSM_24CFB3A24FF7412DB1277B5C2B5936DE_PCD3D_SM5_7__BC5N_NOCCBN_DEV_SL_DBUF_UN__15F09495F42E795A57C9FB338E8D944B4892ED49.udd" 2335
+"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/8/5/MATSM_24CFB3A24FF7412DB1277B5C2B5936DE_PCD3D_SM4_7__BC5N_NOCCBN_DEV_SL_DBUF_UN__C133A78CEA4CDA7D372DE7551CE69EB11595C62B.udd" 2336
+"../../../../Projects/Internship/Noob_noob3 4.18/Content/3D/Collectables/Poop.uasset" 2337
+"../../../../Projects/Internship/Noob_noob3 4.18/Content/3D/Collectables/Mat_Poop.uasset" 2338
+"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/0/5/STATICMESH_8A752B9E4A904F25B0AB9D65A70A8BDC_228332BAE0224DD294E232B87D83948F1$__3A38A87F7D39AC9ECEE812DA8BF103AE789D138B.udd" 2339
+"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/7/7/NAVCOLLISION_B89838347A4348138EE337A847529C5C_NAVCOLLISION_X_DAA98B2F4A1487C5E__36785A8EB84C990F568B3BC22A157937F1C799F7.udd" 2340
+"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/2/8/PHYSX_3B0AB674B19F4A698B28F7025C031EA2_PHYSXPC_DAA98B2F4A1487C5E39FCABE9DF9E9E__094B732AF3BC89D79C8500B4A9A89D4386C05CB0.udd" 2341
+"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/4/6/MATSM_24CFB3A24FF7412DB1277B5C2B5936DE_PCD3D_SM5_7__BC5N_NOCCBN_DEV_SL_DBUF_UN__790DE14B057877EEF91DF452724D34AAD031F6D0.udd" 2342
+"C:/Users/Mojo/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/7/3/MATSM_24CFB3A24FF7412DB1277B5C2B5936DE_PCD3D_SM4_7__BC5N_NOCCBN_DEV_SL_DBUF_UN__28E8B9476BF07B018AE94599C3F8E1A55BAC90AF.udd" 2343
+"../../../../Projects/Internship/Noob_noob3 4.18/Content/3D/Actors/Collect.uasset" 2344
+"../../../../Projects/Internship/Noob_noob3 4.18/Content/GameInstance.uasset" 2345
+"../../../Engine/Content/Tutorial/Landscape/Landscape_Manage_Mode.uasset" 2346
+"../../../Engine/Content/Tutorial/Landscape/Landscape_Sculpt_Mode.uasset" 2347
+"../../../Engine/Content/Tutorial/Landscape/Landscape_Painting_Mode.uasset" 2348
+"../../../Engine/Content/Tutorial/SubEditors/PersonaAnimBlueprintEditorWalkthrough.uasset" 2349
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_AnimBlueprint.uasset" 2350
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialCharacter.uasset" 2351
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP.uasset" 2352
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_Mat.uasset" 2353
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_PhysicsAsset.uasset" 2354
+"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintMacroLibrariesEditorOverview.uasset" 2355
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/BlueprintMacroLibrary_64x.uasset" 2356
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Tutorial_BP_MacroLib.uasset" 2357
+"../../../Engine/Content/Tutorial/Paper2D/FlipbookEditorTutorial.uasset" 2358
+"../../../Engine/Content/Tutorial/Paper2D/TutorialAssets/Paper2DFlipbook_TutorialIcon.uasset" 2359
+"../../../Engine/Content/Tutorial/Landscape/LandscapeWalkThrough.uasset" 2360
+"../../../Engine/Content/Tutorial/SubEditors/ParticleSystemEditorTutorial.uasset" 2361
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialParticleSystem.uasset" 2362
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/M_smoke_subUV_blackbody.uasset" 2363
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/T_SmokeSubUV_8X8.uasset" 2364
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/T_soft_smoke.uasset" 2365
+"../../../Engine/Content/Tutorial/BlueprintTutorials/LevelBlueprintEditorOverview.uasset" 2366
